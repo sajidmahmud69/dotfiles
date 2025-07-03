@@ -1,0 +1,13 @@
+Electron/
+dconf
+discord/
+dolphinrc
+go/
+gtk-2.0/
+gtk3.0/
+kde.org/
+pavucontrol.ini
+pulse/
+session/
+systemd/
+yay
